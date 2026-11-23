@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Search-Retrieval-Vector-Indexing?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -66,9 +66,9 @@ Below is a comparison of leading managed cloud search and vector database platfo
 
 ## 💻 Open-Source GitHub Projects
 
-Below are the most prominent open-source vector databases, similarity search engines, Postgres vector extensions, and embedding pipelines, **sorted in descending order by GitHub Stars** (with real-time social badges linking directly to each repository's stargazers):
+Below are the most prominent open-source vector databases, similarity search engines, Postgres vector extensions, and embedding pipelines, **sorted in descending order by GitHub_Stars** (with real-time social badges linking directly to each repository's stargazers):
 
-| Open-Source Project | GitHub Stars | Core Language / Stack | Primary Focus & Capabilities |
+| Open-Source Project | GitHub_Stars | Core Language / Stack | Primary Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Meilisearch](https://github.com/meilisearch/meilisearch)** | [![Stars](https://img.shields.io/github/stars/meilisearch/meilisearch?style=social&color=white)](https://github.com/meilisearch/meilisearch/stargazers) | `Rust` | Ultra-fast, typo-tolerant search engine with hybrid search, vector embeddings, and instant relevance scoring. |
 | **[Milvus](https://github.com/milvus-io/milvus)** | [![Stars](https://img.shields.io/github/stars/milvus-io/milvus?style=social&color=white)](https://github.com/milvus-io/milvus/stargazers) | `Go` / `C++` | Cloud-native distributed vector database built for billion-scale similarity search with GPU and DiskANN acceleration. |
